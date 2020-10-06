@@ -1,1 +1,1 @@
-# AI_with_Python_Course_-NLP-
+# AI_with_Python_Course_NLP
